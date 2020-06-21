@@ -1,4 +1,4 @@
-# Egnyte yii2 to component 
+# Egnyte yii2 component 
 
 ## How to use it
 ```
